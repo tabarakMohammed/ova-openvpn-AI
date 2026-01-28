@@ -4,8 +4,10 @@ target/
 !**/src/test/**/target/
 .kotlin
 
-/idea/
-/mvn/
+/idea/*
+.idea/*
+/mvn/*
+.mvn/*
 
 
 ### IntelliJ IDEA ###
